@@ -1,0 +1,57 @@
+h1,
+h2 {
+	margin-bottom: 15px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 20px;
+	
+}
+
+
+
+.logo {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.nav {
+	background: #fof8ff;
+	 
+	height: 100px;
+	
+	 
+}
+
+.nav a  {
+	color: red;
+	text-decoration: none;
+	font-size: 2em;
+	font-weight: bold;
+	list-style-type: none;
+	
+}
+
+.nav a:hover {
+color: dodgerblue;}
+
+
+.box1 {
+	padding: 30px 30px
+}
+
+
+
+.box2 {
+	padding: 80px 80px
+	 
+	 
+	 
+	
+}
+
+.box3 {
+	padding: 30px 30px
+}
+	
