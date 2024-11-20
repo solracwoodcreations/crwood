@@ -1,2 +1,22 @@
-.h1 {
-size: large;}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: #333;
+}
+
+
+    
+    
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+}
