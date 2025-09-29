@@ -27,13 +27,13 @@ ul {
 	list-style-type: none;
 }
 
+.container {
+	  background-color: lightblue;
+			}
+
 .nav {
-	background: lightblue;
-	 
-	height: 100px;
-	
-	 
-}
+	  height: 100px;
+	  }
 
 .nav a  {
 	color: blue;
