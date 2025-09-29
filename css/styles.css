@@ -28,7 +28,7 @@ ul {
 }
 
 .nav {
-	background: #fof8ff;
+	background: light blue;
 	 
 	height: 100px;
 	
@@ -36,7 +36,7 @@ ul {
 }
 
 .nav a  {
-	color: #1cff00;
+	color: blue;
 	text-decoration: none;
 	font-size: 2em;
 	font-weight: bold;
