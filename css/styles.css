@@ -1,10 +1,8 @@
-@media(max-width: 600px)
-h1,
-h2 {
+@media(max-width: 600px) {
 	margin-bottom: 15px;
 }
 
-ul {
+a {
 	list-style-type: none;
 	padding: 20px;
 	
@@ -33,7 +31,7 @@ ul {
 	  height: 100px;
 	  }
 
-.nav a  {
+.content a  {
 	color: blue;
 	text-decoration: none;
 	font-size: 2em;
@@ -42,7 +40,7 @@ ul {
 	
 }
 
-.nav a:hover {
+.content a:hover {
 color: dodgerblue;}
 
 
@@ -107,3 +105,4 @@ color: dodgerblue;}
 }*/
 
 	
+
